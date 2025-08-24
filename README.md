@@ -12,7 +12,7 @@ https://github.com/iNouis/Data-Analysis-Dashboard/blob/main/Tech_Conference_Lect
 # Screenshots
 ![Attenders Page]()
 ![Sessions Page]()
-![Rating Page]()
+![Rating Page](https://github.com/iNouis/Data-Analysis-Dashboard/blob/main/Ratings.png?raw=true)
 
 # Project Insight
 - 800 participants attended across 4 days, generating 926 total attendances.
