@@ -10,7 +10,7 @@ https://github.com/iNouis/Data-Analysis-Dashboard/blob/main/Tech_Conference_Lect
 
 
 # Screenshots
-![Attenders Page]()
+![Attenders Page](https://github.com/iNouis/Data-Analysis-Dashboard/blob/main/Ratings.png?raw=true)
 ![Sessions Page](https://github.com/iNouis/Data-Analysis-Dashboard/blob/main/sessions.png?raw=true)
 ![Rating Page](https://github.com/iNouis/Data-Analysis-Dashboard/blob/main/Ratings.png?raw=true)
 
