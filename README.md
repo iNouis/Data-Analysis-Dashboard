@@ -2,9 +2,10 @@
 
 # Project Description
 This project uses a Technical Conference dataset to build an interactive Power BI dashboard that delivers insights into attendees, sessions, and participant ratings.
-The dashboard provides a clear view of participation trends, session engagement, and overall feedback using maps, slicers, bar charts, and KPI indicators.
+The dashboard provides a clear view of participation trends, session engagement, and overall feedback using maps, slicers, bar charts, Filters and KPI indicators.
 
 # Dataset used
+https://github.com/iNouis/Data-Analysis-Dashboard/blob/main/Tech_Conference_Lect.xlsx
 
 
 
