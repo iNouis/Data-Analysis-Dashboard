@@ -7,10 +7,10 @@ The dashboard provides a clear view of participation trends, session engagement,
 # Dataset used
 
 
-#Screenshots
+# Screenshots
 ![Attenders Page]()
 ![Sessions Page]()
-![image alt](Rating Page)
+![Rating Page]()
 
 # Project Insight
 - 800 participants attended across 4 days, generating 926 total attendances.
