@@ -1,4 +1,4 @@
-# Technical Conference-Data-Analysis (Interactive Dashboard creation using PowerBi)
+# Technical Conference Data Analysis (Interactive Dashboard creation using PowerBi)
 
 # Project Description
 This project uses a Technical Conference dataset to build an interactive Power BI dashboard that delivers insights into attendees, sessions, and participant ratings.
